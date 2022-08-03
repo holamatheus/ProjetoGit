@@ -1,1 +1,5 @@
 Não tem nada
+para 
+o git 
+entender que modificamos 
+o arquivo
